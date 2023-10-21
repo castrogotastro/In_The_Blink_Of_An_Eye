@@ -51,7 +51,8 @@ Which pokemon do you choose?
             ->pokemon_chosen
     * [Bulbasaur]
         ~ pokemonChosen = "Bulbasaur"
-        ->pokemon_chosen
+            ** You chose literally the worst one. It's good against the first gym but grass has so many weaknesses!
+            ->pokemon_chosen
             
 
 -great choice, you little bitch->DONE
